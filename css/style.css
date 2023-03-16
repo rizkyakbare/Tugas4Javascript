@@ -2,9 +2,10 @@
     max-width: 400px;
     margin: 150 auto;
     padding: 20px;
-    background-color: #99aeccff;
+    background-color: rgb(241, 243, 247);
     border: 1px solid #c8c1c1;
     border-radius: 5px;
+    opacity: 0.8;
   }
   
   .form-group {
